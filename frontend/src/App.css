@@ -1,0 +1,59 @@
+.App {
+  background-color: white;
+  min-height: 100vh;
+  color :  #282c34;
+  padding : 5px;
+}
+
+.App #bout button{
+  margin-left:380px;
+  margin-top: 10px;
+  font-size: 25px;
+}
+.App img {
+  width: 150px;
+  height:70px;
+  float: left;
+  border-radius: 10%;
+  margin-right: 10px;
+}
+.App #titre{
+  margin-left:-60px;
+  
+}
+
+.App h1{
+  margin-left: 200px;
+  margin-top : 10px;
+  font-size: 40px;
+  color: #0000ff;
+  font-style: italic;
+}
+
+#ligne p{
+  color: #19193af6;
+}
+
+.App h3{
+  color: #0a0d5f;
+}
+
+#ligne{
+  margin-left:0px;
+}
+
+#ligne #quart{
+  width: 25%;
+}
+
+
+
+.col-3 button{
+  flex:1;
+  margin-top: -10px;
+}
+
+#ligne #dix{
+  width: 10%;
+  padding-top: 0px;
+}
